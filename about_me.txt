@@ -1,1 +1,2 @@
 Hello, I am Precious Usman and this is my Git repository.
+Hobbies: Research, Coding, Martial Arts\nFun Facts: I love sound engineering!
